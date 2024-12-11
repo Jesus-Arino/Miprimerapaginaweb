@@ -1,0 +1,55 @@
+h1{
+    color:blue;
+}
+h2{
+    color: darkgreen;
+}
+img{
+    width: 500px;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;color:darkred;
+}
+table{
+    width: 70%;
+    border: collapse; collapse 
+    margin: 20px 0;
+}
+th, td{
+    border: 1px solid;
+    padding: 8px;
+}
+th{
+    background-color: dimgrey;
+}
+label{
+    display: block; margin: 10px 0 5px;
+    font-weight: bold;
+}
+input, textarea, select{
+width: 70%;
+padding: 10px;
+margin-bottom: 15px;
+border: 1px solid #acc;
+border-radius: 4px;
+}
+p{
+    text-align: center;
+    color: #333;
+}
+input[type="submit"] :hover{
+    background color: #45a049
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px; rgb(0,0,0.1)
+}
